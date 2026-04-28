@@ -107,33 +107,7 @@ La ligne de commande est indispensable pour automatiser les tâches d'administra
 
 ---
 
-## 📂 Structure du dépôt
 
-```
-Lab-Active-Directory-TryHackMe/
-│
-├── README.md                        ← Ce fichier
-│
-├── screenshots/
-│   ├── progression-100.png          ← Preuve 100% completion
-│   ├── ad-tree.png                  ← Arbre thm.local
-│   ├── security-groups.png          ← Groupes de sécurité
-│   ├── domain-admins-members.png    ← Domain Admins
-│   ├── ou-structure.png             ← Unités d'organisation
-│   └── powershell-reset.png         ← Commande PowerShell
-│
-├── notes/
-│   ├── concepts-cles.md             ← Résumé des concepts AD
-│   ├── commandes-powershell.md      ← Commandes PowerShell utiles
-│   └── kerberos-vs-ntlm.md         ← Authentification expliquée
-│
-└── use-cases/
-    ├── delegation-ou.md             ← Scénario délégation de droits
-    ├── password-reset.md            ← Scénario reset MDP
-    └── gpo-scenario.md             ← Scénario politique de groupe
-```
-
----
 
 ## 🔗 Ressources complémentaires
 
